@@ -14,4 +14,4 @@ def oafishdistortpurp(name=None):
 
 @app.route('/phaserlanding')
 def phaserlanding():
-    return render_template('phasertemplate.html')
+    return render_template('phaserlanding.html')
